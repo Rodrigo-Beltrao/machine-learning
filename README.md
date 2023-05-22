@@ -23,38 +23,15 @@ Este projeto envolveu a análise e clusterização de clientes de um supermercad
     10)Alocação e Análise de Clusters: Os clientes foram alocados nos clusters correspondentes com base em suas características individuais. Em seguida, cada cluster foi analisado individualmente, considerando as médias das variáveis relevantes. Foram identificadas as características distintivas de cada cluster, incluindo renda, nível educacional, idade, estado civil, presença de filhos, padrões de gastos e taxa de aceitação de campanhas de marketing.
 
 
-A análise de cluster revelou diferentes perfis de clientes no supermercado:
+Em resumo, a análise de cluster revelou diferentes perfis de clientes no supermercado:
 
-    Cluster 1: É composto por indivíduos com uma renda relativamente alta e um nível educacional médio. A média de idade dos               indivíduos é em torno de 54 anos, indicando que são pessoas maduras. Eles apresentam um tempo médio desde a última compra         de cerca de 51 dias, sugerindo um envolvimento ativo em atividades de compra.
-    
-        A maioria das pessoas neste cluster está casada ou em um relacionamento estável. É interessante notar que a maioria não           possui filhos, o que pode ter um impacto nas suas decisões de compra, pois podem ter mais liberdade para investir em si           mesmos.
+    Cluster 1: Clientes com renda alta, nível educacional médio, idade madura, tempo médio desde a última compra de 51 dias e alta taxa de aceitação de campanhas de marketing. Eles têm preferência por produtos de alta qualidade e têm um poder de compra considerável.
 
-        Em relação aos gastos, observa-se um alto consumo de vinhos, carne, peixe e produtos de ouro. Isso sugere que esses               indivíduos apreciam produtos de alta qualidade e estão dispostos a investir em itens que consideram luxuosos. O total             gasto em compras é relativamente alto, indicando que eles têm um poder de compra considerável.
-    
-        A taxa de aceitação de campanhas de marketing é alta, o que indica que estratégias de marketing direcionadas e                     personalizadas têm um bom impacto nesse grupo. Eles estão mais propensos a responder positivamente a ofertas e campanhas           que correspondam às suas preferências e estilo de vida.
-        
- 
-     Cluster 3: Comparando com os outros clusters, o Cluster 3 é caracterizado por indivíduos com renda e nível educacional                relativamente baixos. Eles apresentam um tempo médio maior desde a última compra, o que pode indicar um menor engajamento          em atividades de compras online ou menos acesso a meios de compra. Além disso, a taxa de aceitação de campanhas de                marketing é baixa, o que sugere que esses indivíduos podem ser menos responsivos às estratégias tradicionais de                    marketing.
+    Cluster 3: Clientes com renda e nível educacional relativamente baixos, tempo médio maior desde a última compra e baixa taxa de aceitação de campanhas de marketing. Eles têm prioridades financeiras voltadas para a família e são menos responsivos às estratégias tradicionais de marketing.
 
-         Dado que eles têm filhos, é possível que suas prioridades financeiras estejam mais voltadas para a família, limitando              assim seus gastos em outras áreas. No entanto, ainda há um consumo moderado de produtos como vinhos, carnes e produtos            doces, o que indica algum interesse nessas categorias de produtos.
-       
-              
-     Cluster 2: É caracterizado por indivíduos com uma renda relativamente alta e um nível educacional médio. Eles apresentam um            tempo médio razoavelmente curto desde a última compra, o que sugere um engajamento regular em atividades de compra.
-        
-         É interessante notar que a maioria dos indivíduos neste cluster está casada ou em um relacionamento estável, o que pode            influenciar suas preferências de consumo. Além disso, eles têm filhos, o que pode ser um fator que influencia suas                decisões de compra.
-         
-         Os gastos neste cluster indicam um consumo considerável de produtos como vinhos, frutas, carne e peixe. Isso sugere que            esses indivíduos possuem uma preferência por alimentos saudáveis e de qualidade. O total gasto em compras é relativamente          alto, indicando que eles estão dispostos a investir em produtos de sua preferência.
-        
-        A taxa de aceitação de campanhas de marketing é moderada, o que sugere que estratégias de marketing segmentadas e                 personalizadas podem ter algum impacto nesse grupo.
+    Cluster 2: Clientes com renda alta, nível educacional médio, tempo médio curto desde a última compra, casados ou em relacionamento estável e com filhos. Eles apresentam preferência por alimentos saudáveis e têm um poder de compra considerável. A taxa de aceitação de campanhas de marketing é moderada.
+
+    Cluster 0: Clientes com renda relativamente baixa, nível educacional mais baixo, idade em torno de 50 anos, solteiros e com filhos. Eles têm um consumo moderado de produtos e um poder de compra mais limitado. A taxa de aceitação de campanhas de marketing é baixa, indicando uma maior seletividade.
 
 
-    Cluster 0: É composto por indivíduos com uma renda relativamente baixa e um nível educacional mais baixo. A média de idade dos         indivíduos é em torno de 50 anos, indicando que são pessoas em uma faixa etária mais jovem ou de meia-idade.
-   
-        A maioria das pessoas neste cluster é solteira, o que pode indicar um perfil mais independente e menos preocupado com             responsabilidades familiares. No entanto, a maioria possui filhos, o que pode influenciar suas decisões de compra.
-
-        Em relação aos gastos, observa-se um consumo moderado de vinhos, frutas, carne e peixe. Isso sugere que esses indivíduos          tendem a adquirir produtos de forma equilibrada e não exagerada. O total gasto em compras é relativamente baixo, indicando        que eles têm um poder de compra mais limitado.
-    
-        A taxa de aceitação de campanhas de marketing é baixa, o que indica que estratégias de marketing tradicionais podem não           ser tão eficazes com esse grupo. Eles podem ser mais seletivos e céticos em relação a ofertas e campanhas publicitárias.  
-    
-    
 Essas informações fornecem uma visão abrangente dos diferentes grupos de clientes, permitindo ao supermercado adaptar suas estratégias de marketing, oferta de produtos e serviços de acordo com as necessidades e preferências de cada segmento. Isso pode levar a um aumento na satisfação do cliente, fidelização e crescimento dos negócios.
